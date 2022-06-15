@@ -1,12 +1,12 @@
 {
-  "name": "com.prybh.XXXXXXX",
+  "name": "com.prybh.pathfinder",
   "version": "0.0.0",
-  "displayName": "XXXXXXX",
-  "description": "XXXXXXX",
+  "displayName": "Pathfinder",
+  "description": "Pathfinder",
   "unity": "2021.3",
-  "documentationUrl": "https://github.com/Prybh/XXXXXXX",
-  "changelogUrl": "https://github.com/Prybh/XXXXXXX/CHANGELOG.md",
-  "licensesUrl": "https://github.com/Prybh/XXXXXXX/LICENSE.md",
+  "documentationUrl": "https://github.com/Prybh/Pathfinder",
+  "changelogUrl": "https://github.com/Prybh/Pathfinder/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Prybh/Pathfinder/LICENSE.md",
   "dependencies": {},
   "keywords": [
     "unitypackage"
